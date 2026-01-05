@@ -21,7 +21,6 @@ The **Online Service Management System (OSMS)** is a comprehensive web-based pla
 - **CSS3** - Styling and responsive design
 - **Bootstrap 4** - UI components and grid system
 - **JavaScript** - Client-side interactivity
-- **jQuery** - DOM manipulation and AJAX
 
 ### Backend
 - **PHP 7+** - Server-side scripting and business logic
