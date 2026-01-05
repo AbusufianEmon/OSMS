@@ -89,15 +89,6 @@ If you download and want to run this project locally, follow these steps:
 
 ---
 
-## 👥 Database Tables
-
-- `technician_tb` - Technician information and credentials
-- `submitrequest_tb` - Customer service requests
-- `assignwork_tb` - Work assignments and status tracking
-- `requesterlogin_tb` - Customer login credentials
-- `adminlogin_tb` - Admin login credentials
-
----
 
 ## 🎓 Academic Information
 
