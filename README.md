@@ -109,7 +109,8 @@ If you download and want to run this project locally, follow these steps:
 
 ## 🙏 Acknowledgments
 
-**Supervisor**: Razorshi Prozzwal Talukder 
+**Supervisor**: Razorshi Prozzwal Talukder.
+
 Thank you for your guidance and supervision throughout this project.
 
 ---
